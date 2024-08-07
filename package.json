@@ -1,0 +1,24 @@
+{
+  "name": "hijri-gregorian-calendar",
+  "version": "1.0.0",
+  "description": "A calendar package that show both gregorian and hijri date",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/User-425/hijri-gregorian-calendar.git"
+  },
+  "keywords": [
+    "calendar",
+    "hijri",
+    "gregorian"
+  ],
+  "author": "User-425",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/User-425/hijri-gregorian-calendar/issues"
+  },
+  "homepage": "https://github.com/User-425/hijri-gregorian-calendar#readme"
+}
